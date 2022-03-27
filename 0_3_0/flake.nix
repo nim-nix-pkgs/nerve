@@ -11,6 +11,7 @@
   inputs.src-nerve-0_3_0.ref   = "refs/tags/0.3.0";
   inputs.src-nerve-0_3_0.owner = "nepeckman";
   inputs.src-nerve-0_3_0.repo  = "nerve-rpc";
+  inputs.src-nerve-0_3_0.dir   = "";
   inputs.src-nerve-0_3_0.type  = "github";
   
   inputs."ws".owner = "nim-nix-pkgs";
