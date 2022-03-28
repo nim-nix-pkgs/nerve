@@ -11,7 +11,6 @@
   inputs.src-nerve-0_2_0.ref   = "refs/tags/0.2.0";
   inputs.src-nerve-0_2_0.owner = "nepeckman";
   inputs.src-nerve-0_2_0.repo  = "nerve-rpc";
-  inputs.src-nerve-0_2_0.dir   = "";
   inputs.src-nerve-0_2_0.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
